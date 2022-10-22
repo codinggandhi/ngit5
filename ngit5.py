@@ -22,4 +22,4 @@ while 1:
 	if not sp:
 		break
 
-fileclose()
+file.close()
